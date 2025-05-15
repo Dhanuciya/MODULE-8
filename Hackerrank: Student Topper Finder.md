@@ -51,11 +51,13 @@ topper_marks = total_marks[topper]
 print(f"\nThe student with the highest total marks is {topper} with {topper_marks} marks.")
 ~~~
 ## OUTPUT
+~~~
 Input                                         Result
 Alice [85, 90, 78, 92, 88]              
 Bob [75, 80, 70, 85, 78]                   The student with the highest total marks is Charlie with 456 marks.
 Charlie [90, 95, 88, 92, 91]
 David [60, 65, 70, 55, 62]
+~~~
 ---
 ## RESULT
 The program was successful
